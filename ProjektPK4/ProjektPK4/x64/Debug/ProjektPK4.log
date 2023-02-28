@@ -1,0 +1,162 @@
+﻿  Button.cpp
+  EnemyShip.cpp
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\EnemyShip.cpp(7,23): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\EnemyShip.cpp(9,49): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\EnemyShip.cpp(13,55): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\EnemyShip.cpp(17,13): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  Game.cpp
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\Game.cpp(8,56): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\Game.cpp(8,35): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  GameMode.cpp
+  main.cpp
+  Menu.cpp
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\Menu.cpp(14,34): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\Menu.cpp(110,77): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\Menu.cpp(110,56): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  MultiMode.cpp
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\MultiMode.cpp(10,34): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\MultiMode.cpp(45,67): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\MultiMode.cpp(45,42): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\MultiMode.cpp(64,68): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\MultiMode.cpp(64,43): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\MultiMode.cpp(67,72): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\MultiMode.cpp(67,47): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\MultiMode.cpp(114,54): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\MultiMode.cpp(115,54): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\MultiMode.cpp(135,54): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\MultiMode.cpp(136,54): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  MultiModeResults.cpp
+  MultiRegistration.cpp
+  Obstacle.cpp
+  Player.cpp
+  RankingMode.cpp
+  Rock.cpp
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\Rock.cpp(7,49): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\Rock.cpp(11,55): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\Rock.cpp(15,13): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  Satellite.cpp
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\Satellite.cpp(5,23): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\Satellite.cpp(7,49): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\Satellite.cpp(11,55): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\Satellite.cpp(15,13): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  Shot.cpp
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\Shot.cpp(11,64): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\Shot.cpp(11,39): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  SingleMode.cpp
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\SingleMode.cpp(10,34): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\SingleMode.cpp(37,67): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\SingleMode.cpp(37,42): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\SingleMode.cpp(56,67): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\SingleMode.cpp(56,42): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\SingleMode.cpp(100,53): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\SingleMode.cpp(101,53): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  SingleModeResults.cpp
+  SingleRegistration.cpp
+  SpaceBall.cpp
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\SpaceBall.cpp(5,23): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\SpaceBall.cpp(7,49): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\SpaceBall.cpp(11,55): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\ProjektPK4\SpaceBall.cpp(15,13): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  Textbox.cpp
+  Generowanie kodu...
+  ProjektPK4.vcxproj -> C:\Users\micha\OneDrive\Pulpit\10fcc316-gr12-repo\Projekt\ProjektPK4\x64\Debug\ProjektPK4.exe
